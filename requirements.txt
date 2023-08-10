@@ -6,6 +6,9 @@ pandas==2.0.2
 jupyterlab-dash==0.1.0a3
 seaborn==0.12.2
 python-dotenv==1.0.0
-psycopg2==2.9.6
+psycopg2-binary
 SQLAlchemy==2.0.15
 missingno==0.5.2
+vega_datasets
+geopandas
+dash
