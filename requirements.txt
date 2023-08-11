@@ -12,3 +12,4 @@ missingno==0.5.2
 vega_datasets
 geopandas
 dash
+geopy
